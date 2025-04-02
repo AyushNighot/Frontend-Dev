@@ -1,0 +1,34 @@
+/*li{
+    color: blueviolet;
+}
+
+li{
+    color: burlywood;
+}
+
+li {
+    color: chocolate;
+}
+
+.htm {
+    color: black;
+}
+
+#htm.htm {
+    color:chartreuse;
+}
+
+#htm {
+    color: brown;
+}
+
+ */
+
+ body {
+    color: yellow;
+ }
+
+ ul {
+    font-family:cursive ;
+    font-size: 32px;
+}
