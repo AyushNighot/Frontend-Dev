@@ -1,0 +1,34 @@
+.htm{
+    color: red;
+}
+
+.css{
+    color: blue;
+}
+
+.js{
+    color: yellow;
+}
+
+.react{
+    color: skyblue;
+}
+
+.node{
+    color: green;
+}
+
+#intro {
+    color: antiquewhite;
+}
+#heading {
+    color: aqua;
+}
+
+h1:hover {
+    color: aquamarine;
+}
+
+p:hover {
+    color: blanchedalmond;
+}
