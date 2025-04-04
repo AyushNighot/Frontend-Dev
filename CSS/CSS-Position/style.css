@@ -1,0 +1,19 @@
+div {
+    background-color: aqua;
+    position: relative;
+    /* top: 50px;
+    bottom: 50px;
+    left: 50px;
+    inset: 5px; */
+}
+
+.css {
+    background-color: aquamarine;
+    position: absolute;
+}
+.hd{
+    background-color: chartreuse;
+    position: sticky;
+    top: 0px;
+
+}
