@@ -1,0 +1,28 @@
+body{
+    background-color: #D5E1EF;
+    min-height: 100vh;
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.class {
+    background-color: white;
+    position: fixed;
+    margin: auto;
+    inset: 0;
+    box-shadow: 0px 0px 20px 0px rgba(0, 0, 0, 0.438);
+    height: 470px;
+    width: 302px;
+    padding: 12px;
+    border-radius: 18px;
+
+}
+img {
+    width:100%;
+    border-radius: 10px;
+}
+h3{
+    text-decoration-color: #1f3251;
+}
+p{
+    color: grey;
+}
